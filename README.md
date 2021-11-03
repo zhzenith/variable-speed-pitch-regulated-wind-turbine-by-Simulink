@@ -8,3 +8,6 @@ features:
 4) Aero loads on tower base are available
 5) Based on look-up table data: Cp and Ct
 6) Easy-to-use if you are familiar with Matlab/Simulink
+
+![Explorers view](/screenshot.png)
+![Simulink blocks](/screenshot2.png)
