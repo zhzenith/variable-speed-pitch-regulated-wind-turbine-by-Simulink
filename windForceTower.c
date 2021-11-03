@@ -25,7 +25,7 @@
   *  -------------------------------------------------------------------------
   * | See matlabroot/simulink/src/sfuntmpl_doc.c for a more detailed template |
   *  ------------------------------------------------------------------------- 
-* Created: Wed Nov  3 18:21:34 2021
+* Created: Wed Nov  3 20:15:58 2021
 */
 #define S_FUNCTION_LEVEL 2
 #define S_FUNCTION_NAME windForceTower
@@ -145,7 +145,7 @@
 #define PARAMETER_5_DTYPE     real_T
 #define PARAMETER_5_COMPLEX   COMPLEX_NO
 
-#define SAMPLE_TIME_0        INHERITED_SAMPLE_TIME
+#define SAMPLE_TIME_0        0.2
 #define NUM_DISC_STATES      24
 #define DISC_STATES_IC       [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
 #define NUM_CONT_STATES      0
