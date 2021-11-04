@@ -8,6 +8,7 @@ features:
 4) Aero loads on tower base are available
 5) Based on look-up table data: Cp and Ct
 6) Easy-to-use if you are familiar with Matlab/Simulink
+7) Can be extended to study multi-body dynamics
 
 ![Explorers view](/screenshot.png)
 ![Simulink blocks](/screenshot2.png)
